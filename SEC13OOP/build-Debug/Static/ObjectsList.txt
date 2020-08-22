@@ -1,0 +1,1 @@
+../build-Debug/Static/Player.cpp.o ../build-Debug/Static/main.cpp.o

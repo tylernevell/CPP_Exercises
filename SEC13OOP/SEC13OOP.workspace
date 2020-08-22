@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="SEC13OOP" Database="" Version="10000">
+  <Project Name="oops" Path="oops/oops.project" Active="No"/>
+  <Project Name="PublicPrivate" Path="PublicPrivate/PublicPrivate.project" Active="No"/>
+  <Project Name="implementMethods" Path="implementMethods/implementMethods.project" Active="No"/>
+  <Project Name="initializationLists" Path="initializationLists/initializationLists.project" Active="No"/>
+  <Project Name="Constructors" Path="DelegatingConstructors/DelegatingConstructors.project" Active="No"/>
+  <Project Name="ShallowCopy" Path="ShallowCopy/ShallowCopy.project" Active="No"/>
+  <Project Name="DeepCopy" Path="DeepCopy/DeepCopy.project" Active="No"/>
+  <Project Name="Move" Path="Move/Move.project" Active="No"/>
+  <Project Name="Static" Path="Static/Static.project" Active="No"/>
+  <Project Name="challenge" Path="challenge/challenge.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="oops" ConfigName="Debug"/>
+      <Project Name="PublicPrivate" ConfigName="Debug"/>
+      <Project Name="implementMethods" ConfigName="Debug"/>
+      <Project Name="initializationLists" ConfigName="Debug"/>
+      <Project Name="Constructors" ConfigName="Debug"/>
+      <Project Name="ShallowCopy" ConfigName="Debug"/>
+      <Project Name="DeepCopy" ConfigName="Debug"/>
+      <Project Name="Move" ConfigName="Debug"/>
+      <Project Name="Static" ConfigName="Debug"/>
+      <Project Name="challenge" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="oops" ConfigName="Release"/>
+      <Project Name="PublicPrivate" ConfigName="Release"/>
+      <Project Name="implementMethods" ConfigName="Release"/>
+      <Project Name="initializationLists" ConfigName="Release"/>
+      <Project Name="Constructors" ConfigName="Release"/>
+      <Project Name="ShallowCopy" ConfigName="Release"/>
+      <Project Name="DeepCopy" ConfigName="Release"/>
+      <Project Name="Move" ConfigName="Release"/>
+      <Project Name="Static" ConfigName="Release"/>
+      <Project Name="challenge" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>

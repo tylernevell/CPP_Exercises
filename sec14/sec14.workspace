@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="sec14" Database="" Version="10000">
+  <Project Name="OpOverload" Path="OpOverload/OpOverload.project" Active="No"/>
+  <Project Name="MystringMOVE" Path="MystringMOVE/MystringMOVE.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="OpOverload" ConfigName="Debug"/>
+      <Project Name="MystringMOVE" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="OpOverload" ConfigName="Release"/>
+      <Project Name="MystringMOVE" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>

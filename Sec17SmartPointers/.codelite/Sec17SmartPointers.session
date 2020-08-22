@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Session Name="/Users/n3vdawg/cppProjs/Sec17SmartPointers/Sec17SmartPointers.workspace">
+  <int Value="0" Name="m_selectedTab"/>
+  <wxString Value="/Users/n3vdawg/cppProjs/Sec17SmartPointers/Sec17SmartPointers.workspace" Name="m_workspaceName"/>
+  <TabInfoArray Name="TabInfoArray">
+    <TabInfo>
+      <wxString Value="/Users/n3vdawg/cppProjs/Sec17SmartPointers/UniquePointers/main.cpp" Name="FileName"/>
+      <int Value="1" Name="FirstVisibleLine"/>
+      <int Value="15" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+  </TabInfoArray>
+  <SerializedObject Name="m_breakpoints">
+    <long Value="0" Name="Count"/>
+  </SerializedObject>
+  <wxString Value="*.c;*.cpp;*.cxx;*.cc;*.h;*.hpp;*.inc;*.mm;*.m;*.xrc;*.plist;*.txt" Name="m_findInFilesMask"/>
+</Session>

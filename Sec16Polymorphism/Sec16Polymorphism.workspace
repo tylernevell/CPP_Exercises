@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="Sec16Polymorphism" Database="" Version="10000">
+  <Project Name="Challenge" Path="Challenge/Challenge.project" Active="Yes"/>
+  <Project Name="dividebyzero" Path="dividebyzero/dividebyzero.project"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="Challenge" ConfigName="Debug"/>
+      <Project Name="dividebyzero" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="Challenge" ConfigName="Release"/>
+      <Project Name="dividebyzero" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>

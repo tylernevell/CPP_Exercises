@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="sec12" Database="" Version="10000">
+  <Project Name="projectwhatever" Path="projectwhatever/projectwhatever.project" Active="No"/>
+  <Project Name="challenge11" Path="challenge11/challenge11.project" Active="No"/>
+  <Project Name="Pointer" Path="Pointer/Pointer.project" Active="No"/>
+  <Project Name="DerefPointers" Path="DerefPointers/DerefPointers.project" Active="No"/>
+  <Project Name="DynamicMemAllo" Path="DynamicMemAllo/DynamicMemAllo.project" Active="No"/>
+  <Project Name="DynamicMemory" Path="DynamicMemory/DynamicMemory.project" Active="No"/>
+  <Project Name="arraysAndPointers" Path="arraysAndPointers/arraysAndPointers.project" Active="No"/>
+  <Project Name="pointerArith" Path="pointerArith/pointerArith.project" Active="No"/>
+  <Project Name="constPointers" Path="constPointers/constPointers.project" Active="No"/>
+  <Project Name="FunctionsPointers" Path="FunctionsPointers/FunctionsPointers.project" Active="No"/>
+  <Project Name="returningPointers" Path="returningPointers/returningPointers.project" Active="No"/>
+  <Project Name="Challenge" Path="Challenge/Challenge.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="projectwhatever" ConfigName="Debug"/>
+      <Project Name="challenge11" ConfigName="Debug"/>
+      <Project Name="Pointer" ConfigName="Debug"/>
+      <Project Name="DerefPointers" ConfigName="Debug"/>
+      <Project Name="DynamicMemAllo" ConfigName="Debug"/>
+      <Project Name="DynamicMemory" ConfigName="Debug"/>
+      <Project Name="arraysAndPointers" ConfigName="Debug"/>
+      <Project Name="pointerArith" ConfigName="Debug"/>
+      <Project Name="constPointers" ConfigName="Debug"/>
+      <Project Name="FunctionsPointers" ConfigName="Debug"/>
+      <Project Name="returningPointers" ConfigName="Debug"/>
+      <Project Name="Challenge" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="projectwhatever" ConfigName="Release"/>
+      <Project Name="challenge11" ConfigName="Release"/>
+      <Project Name="Pointer" ConfigName="Release"/>
+      <Project Name="DerefPointers" ConfigName="Release"/>
+      <Project Name="DynamicMemAllo" ConfigName="Release"/>
+      <Project Name="DynamicMemory" ConfigName="Release"/>
+      <Project Name="arraysAndPointers" ConfigName="Release"/>
+      <Project Name="pointerArith" ConfigName="Release"/>
+      <Project Name="constPointers" ConfigName="Release"/>
+      <Project Name="FunctionsPointers" ConfigName="Release"/>
+      <Project Name="returningPointers" ConfigName="Release"/>
+      <Project Name="Challenge" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
